@@ -6,7 +6,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=03-JS-II">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Haz click acá para dejar tu feedback sobre esta clase.
+        Super clara la clase
       </a>
     </td>
   </tr>
